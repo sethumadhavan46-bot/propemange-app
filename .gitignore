@@ -57,3 +57,12 @@ app.*.map.json
 # Environment variables (Google Maps API keys, etc.)
 .env
 .env.*
+
+# ---------------------------------------------------
+# Logs and debug output
+# ---------------------------------------------------
+*.txt
+!CMakeLists.txt
+
+# Project metadata
+.metadata
