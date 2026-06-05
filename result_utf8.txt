@@ -1,0 +1,31 @@
+﻿Analyzing kasc aravind...                                       
+
+warning - Unused import: '../../../property/presentation/widgets/propemange_widgets.dart' - lib\features\auth\presentation\pages\signin_view.dart:2:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\pages\signin_view.dart:143:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\presentation\pages\signin_view.dart:280:33 - deprecated_member_use
+   info - Parameters ''id', 'ownerId', 'title', 'description', 'price', 'category', 'locationAddress', 'images', 'beds', 'baths', 'sqft', 'latitude', and 'longitude'' could be super parameters - lib\features\property\data\models\property_model.dart:5:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\add_property_view.dart:159:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\add_property_view.dart:184:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\add_property_view.dart:264:61 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\property\presentation\pages\home_view.dart:27:39 - use_build_context_synchronously
+   info - Unnecessary use of multiple underscores - lib\features\property\presentation\pages\home_view.dart:241:39 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\home_view.dart:307:52 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\property\presentation\pages\home_view.dart:501:35 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\landing_view.dart:31:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\landing_view.dart:33:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\landing_view.dart:64:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\property_details_view.dart:372:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\search_view.dart:103:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\pages\search_view.dart:188:81 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\property\presentation\pages\search_view.dart:262:39 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\custom_bottom_nav.dart:49:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\filter_modal.dart:193:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\propemange_widgets.dart:181:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\propemange_widgets.dart:515:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\propemange_widgets.dart:591:33 - deprecated_member_use
+warning - Unused import: 'propemange_widgets.dart' - lib\features\property\presentation\widgets\property_card.dart:6:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\property_card.dart:64:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\property\presentation\widgets\property_card.dart:82:57 - deprecated_member_use
+warning - Unused import: 'package:firebase_core/firebase_core.dart' - lib\main.dart:2:8 - unused_import
+warning - Unused import: 'features/property/presentation/pages/home_view.dart' - lib\main.dart:5:8 - unused_import
+
